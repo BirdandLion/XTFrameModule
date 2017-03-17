@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XTFrameModule'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'This is a iOS frame autoresizing framework for those who are developping iOS or Mac App'
 
 # This description is used to generate tags and improve search results.
