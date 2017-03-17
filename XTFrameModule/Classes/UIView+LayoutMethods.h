@@ -1,9 +1,9 @@
 //
-//  UIView+LayoutMethods.h
-//  TmallClient4iOS-Prime
+//  XTViewController.m
+//  XTFrameModule
 //
-//  Created by casa on 14/12/8.
-//  Copyright (c) 2014年 casa. All rights reserved.
+//  Created by BirdandLion on 03/17/2017.
+//  Copyright (c) 2017 BirdandLion. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

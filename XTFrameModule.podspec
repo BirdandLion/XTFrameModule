@@ -38,5 +38,4 @@ This is a iOS frame autoresizing framework for those who are developping iOS or 
   s.requires_arc = true
   s.public_header_files = 'XTFrameModule/Classes/**/*.h'
   s.frameworks = 'UIKit'
-  s.dependency 'AFNetworking', '~> 2.3'
 end
