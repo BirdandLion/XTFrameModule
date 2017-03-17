@@ -1,0 +1,22 @@
+{
+  "name": "XTFrameModule",
+  "version": "0.1.0",
+  "summary": "A short description of XTFrameModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BirdandLion/XTFrameModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BirdandLion": "zhaoxt@tritonsfs.com"
+  },
+  "source": {
+    "git": "https://github.com/BirdandLion/XTFrameModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XTFrameModule/Classes/**/*"
+}

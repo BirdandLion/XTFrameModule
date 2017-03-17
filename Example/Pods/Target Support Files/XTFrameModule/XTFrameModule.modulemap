@@ -1,0 +1,6 @@
+framework module XTFrameModule {
+  umbrella header "XTFrameModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
