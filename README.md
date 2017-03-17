@@ -3,4 +3,4 @@
 
 ### 使用方法
 
-`pod XTFrameModule '~0.1.0'`
+`pod 'XTFrameModule', '~> 0.3.0'`
